@@ -1,0 +1,10 @@
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  color: green;
+  margin: 0 10px;
+  text-align: center;
+}
